@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/precache-manifest.75ab05ee8d8bf3cc718a7259fe571181.js"
+  "/precache-manifest.b02b776218dcde48ceeb0737045943a8.js"
 );
 
 workbox.core.setCacheNameDetails({prefix: "vue-modern-resume"});
